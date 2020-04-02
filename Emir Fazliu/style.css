@@ -1,0 +1,15 @@
+body{
+	padding-left: 100px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  
+
+}
